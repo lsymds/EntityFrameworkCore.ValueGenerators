@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{89E6432A-0A6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkCore.ValueGenerators.Shared", "src\EntityFrameworkCore.ValueGenerators.Shared\EntityFrameworkCore.ValueGenerators.Shared.csproj", "{E3ACE3AE-B955-4396-88E7-8736510DBDE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkCore.ValueGenerators.Cuid2", "src\EntityFrameworkCore.ValueGenerators.Cuid2\EntityFrameworkCore.ValueGenerators.Cuid2.csproj", "{591588A3-058B-4F04-B143-BA8F1B95E9D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkCore.ValueGenerators.NanoId", "src\EntityFrameworkCore.ValueGenerators.NanoId\EntityFrameworkCore.ValueGenerators.NanoId.csproj", "{591588A3-058B-4F04-B143-BA8F1B95E9D6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{485AFDE8-E839-46AD-9A99-8F58BEE940D2}"
 EndProject

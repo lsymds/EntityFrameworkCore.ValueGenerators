@@ -8,8 +8,4 @@
     <RootNamespace>LSymds.EntityFrameworkCore.ValueGenerators.Shared</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Shared\" />
-  </ItemGroup>
-
 </Project>
